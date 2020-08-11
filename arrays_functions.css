@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: lightblue
+}
+div {
+    display: block;
+    border-radius: 30;
+    font-size: 20px;
+    margin-top: 100px;
+    background-color: rgb(238, 238, 36);   
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    border-color: lightgreen;
+    border-radius: 50px;
+    border-width: 25px;
+    font-size: 25px;
+}
+
+#para {
+font-size: 5em;
+}
+
+#size {
+    font-size: 10em;
+}
+.one {
+    border-radius: 5em;
+    border-style: groove;
+    padding: 60px;
+}
+#fish {
+    font-size: 15em;
+}
